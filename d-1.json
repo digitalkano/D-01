@@ -1,6 +1,55 @@
 {
+ "error":false,
+"music":true
+"DiamondGuidekb1":false,
 "DiamondGuidekb1Banner":"/6499/example/banner",
 "DiamondGuidekb1FullScreen":"/6499/example/interstitial",
 "DiamondGuidekb1Native":"/6499/example/native",
 "DiamondGuidekb1Open":"/6499/example/app-open",
+"data": [
+{
+"name":"VidMedia Video Downloader- Fast Video Downloader",
+"playstorLink":"https://play.google.com/store/apps/details?id=com.videodownloaderfast2021.provideostatusdownloader.hdbestvideodownloader",
+"imgURL":"https://play-lh.googleusercontent.com/lYBiVcSSQ-91Da5yCTigk-fEqMJvJVGcqyavToMp6vyRASr0k66zQGx-wiSVS_SLhKw=s80"
+},
+{
+"name":"play Cricket contests running for 50,000 Coins daily",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
+},
+{
+"name":"Play and win coins now",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playwincoin.s3.us-west-1.amazonaws.com/3.png"
+},
+{
+"name":"play Cricket contests running for 50,000 Coins daily",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
+},
+{
+"name":"play Cricket contests running for 50,000 Coins daily",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
+},
+{
+"name":"play Cricket contests running for 50,000 Coins daily",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
+},
+{
+"name":"play Cricket contests running for 50,000 Coins daily",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
+},
+{
+"name":"play Cricket contests running for 50,000 Coins daily",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
+},
+{
+"name": "Play Cricket Quiz & Win Now",
+"playstorLink": "https://1373.win.qureka.com",
+"imgURL": "https://myplayquize.s3.us-west-1.amazonaws.com/8.png"
+}]
 }
