@@ -1,6 +1,6 @@
 {
-"DiamondGuidekb1Banner":"",
-"DiamondGuidekb1FullScreen":"",
-"DiamondGuidekb1Native":"",
-"DiamondGuidekb1Open":"",
+"DiamondGuidekb1Banner":"/6499/example/banner",
+"DiamondGuidekb1FullScreen":"/6499/example/interstitial",
+"DiamondGuidekb1Native":"/6499/example/native",
+"DiamondGuidekb1Open":"/6499/example/app-open"
 }
